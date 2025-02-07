@@ -7,10 +7,4 @@ Testes de Versionamento Intellij
 
 - Mudança número 3
 
-
-
-
-
-
 - Mudança numero 4
-
